@@ -1,7 +1,8 @@
-# UTT Arena Discord Bot
+# UTT Arena Discord Bot Backup
 
 ## General Information
 This is a script that manages the UTT Arena bot to reset the public Discord server for the competition between two editions.
+It also create a backup file.
 
 ## Setup
 To run this project:
