@@ -1,0 +1,7 @@
+{
+    "type": "module",
+    "dependencies": {
+        "discord-backup": "^3.3.2",
+        "node-fetch": "^2.7.0"
+    }
+}
